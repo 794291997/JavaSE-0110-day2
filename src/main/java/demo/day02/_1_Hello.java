@@ -6,6 +6,7 @@ public class _1_Hello {
 
     /**
      * Java SE Application 执行的入口
+     *
      * @param args arguments 参数
      */
     public static void main(String[] args) {
